@@ -1,4 +1,1 @@
 tumor
-mitosis
-malignant
-lymphocyte
