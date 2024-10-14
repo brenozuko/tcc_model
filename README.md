@@ -37,7 +37,3 @@ The model was able to detect tumors with high precision, especially at confidenc
 
 - [YOLOv5 Documentation](https://github.com/ultralytics/yolov5)
 - [TCGA-BRCA Dataset](https://portal.gdc.cancer.gov/projects/TCGA-BRCA)
-  
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
